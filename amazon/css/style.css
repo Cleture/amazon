@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: black;
+}
+.picture{
+     display: flex;
+     justify-content: center;
+     padding-left: 700px;
+     padding-right: 500px;
+
+}
+.text{display: flex;
+    color: azure;
+    justify-content: end;
+    padding-right: 3cm;
+    gap: 1cm;
+    margin-right: 20px;
+       
+}  
+.bt{
+  font-size: 20px;
+  margin-top: 0px;
+  margin-left: 10px;
+  color: #0e0d0d;
+  background-color: rgb(38, 189, 209);
+  padding: 5px 5px;
+  border-radius: 20px;
+  cursor: pointer;
+  box-shadow: #0e0d0d;
+  
+}
+.picture1{
+    display: flex;
+    gap: 0.2cm;
+}
+.picture2{
+    display: flex;
+    gap: 0.2cm;
+    
+}
+.picture3{
+    display: flex;
+    gap: 0.2cm;
+}
+.picture4{
+    display: flex;
+    gap: 0.2cm;
+}
+.rt{
+    color: aliceblue;
+}
+.rt1{
+    color: aliceblue;
+}
+    
